@@ -7,8 +7,11 @@ by just changing the file and the inline messages to your customized university
 # Installation 
 ### first make sure you have python on your machine 
   - ### you can check it by 
-      - ### for linux user it comes with by default and you can access it by __**$python3**__
-      - ### for window user you can download it from [Python](https://www.python.org/downloads/)
+      - ### for linux user it comes with by default and you can access it by
+      ```
+        $ __python3__
+      ```
+      - ### for window user you can download it from [Python website](https://www.python.org/downloads/)
 ## Download the modules 
   - ### for linux user open terminal and enter 
       - ```
