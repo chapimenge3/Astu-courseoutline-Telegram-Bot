@@ -4,7 +4,7 @@ by just changing the file and the inline messages to your customized university
 
 
 
-# Installation 
+## Installation 
 ### first make sure you have python on your machine 
   - ### you can check it by 
       - ### for linux user it comes with by default and you can access it by
@@ -12,7 +12,7 @@ by just changing the file and the inline messages to your customized university
         $ python3
       ```
       - ### for window user you can download it from [Python website](https://www.python.org/downloads/)
-## Download the modules 
+## Downloading the modules 
   - ### for linux user open terminal and enter 
       - ```
         pip3 install python-telegram-bot==12.2.0
