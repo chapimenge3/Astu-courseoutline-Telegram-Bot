@@ -1,6 +1,6 @@
 # Astu-courseoutline-Telegram-Bot
-## It is used for Adama sciece and Technology University but the script can be edited for your purpose
-## by just changing the file and the inline messages to your customized university 
+It is used for Adama sciece and Technology University but the script can be edited for your purpose
+by just changing the file and the inline messages to your customized university 
 
 
 
