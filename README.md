@@ -24,6 +24,6 @@ by just changing the file and the inline messages to your customized university
 ## and that is it you are good to go 
 
 ## Enjoy looking my ugly awesome code if you like it hit the 
-   - staring [star the project](https://github.com/chapimenge3/Astu-courseoutline-Telegram-Bot/stargazers/) 
+   - [star the project](https://github.com/chapimenge3/Astu-courseoutline-Telegram-Bot/stargazers/) 
       and 
-   - fork it 
+   - [fork](https://github.com/chapimenge3/Astu-courseoutline-Telegram-Bot/network/members) it 
