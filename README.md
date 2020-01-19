@@ -9,7 +9,7 @@ by just changing the file and the inline messages to your customized university
   - ### you can check it by 
       - ### for linux user it comes with by default and you can access it by
       ```
-        $ __python3__
+        $ python3
       ```
       - ### for window user you can download it from [Python website](https://www.python.org/downloads/)
 ## Download the modules 
